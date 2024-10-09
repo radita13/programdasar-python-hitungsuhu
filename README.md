@@ -7,7 +7,8 @@ Tools :
 Visual Studio Code
 
 Extension : 
-Python
+- Python
+- Python Debugger
 
 Additional installs :
 My use python version : 3.12.4
